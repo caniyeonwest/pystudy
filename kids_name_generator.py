@@ -1,0 +1,5 @@
+print('Welcome to the Kids Name Generator')
+last_name = input("What's your last name?\n")
+interest = input("what's is your insterest?\n")
+first_name = input("Who's your favorite person in " + interest + " industry?\n")
+print('Your kids name could be ' + first_name + ' ' + last_name)
